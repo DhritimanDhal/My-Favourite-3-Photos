@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: yellowgreen;
+}
+
+.images {
+    height: 200px;
+    width: 350px;
+}
+
+#line {
+    height: 5px;
+    width: 70px;
+    margin: 8px auto;
+    background-color: black;
+}
